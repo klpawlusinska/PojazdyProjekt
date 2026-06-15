@@ -25,7 +25,7 @@ Dzieki temu metoda `GetCapabilities()` w klasie `Vehicle` sama sprawdza, jakie i
 Jak uruchomic?
 Na stronie repozytorium kliknij zielony przycisk Code → Download ZIP 
 Rozpakuj pobrany plik ZIP gdzieś na dysku (np. na Pulpicie) 
-Wejdź do rozpakowanego folderu i kliknij dwukrotnie na plik AplikacjaBankowa.slnx — otworzy się automatycznie w Visual Studio 2022 
+Wejdź do rozpakowanego folderu i kliknij dwukrotnie na plik PojazdyProjekt.slnx — otworzy się automatycznie w Visual Studio 2022 
 W Visual Studio naciśnij Ctrl+Shift+B żeby skompilować projekt (po polsku: Kompiluj → Kompiluj rozwiązanie) 
 Jeśli nie ma błędów, naciśnij F5 albo zielony przycisk ▶️ żeby uruchomić
 
